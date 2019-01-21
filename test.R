@@ -19,3 +19,4 @@ rne_female <- rne %>%
   summarise(n = n()) %>%
   arrange(desc(n)) %>% #we want to summarise
   View()
+#Salut
